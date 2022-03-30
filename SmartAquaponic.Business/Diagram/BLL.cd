@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmartAquaponic.Business.ChecksumBll" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAUAAQAAAAAIIACAAAAAAAQgEJEACEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\ChecksumBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.CommunicationBll" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\CommunicationBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.CryptographyBll">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQAAAQAAAAQAAAEAAAAAAEAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Code\CryptographyBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartAquaponic.Business.DbBll">
+    <Position X="11.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQAAIAAIAACAAAACAAAAAAAIAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>Code\DbBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartAquaponic.Business.DecorBll" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\DecorBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.FishBll" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\FishBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.LampBll" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\LampBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.LogBll" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAIAAAAAAAAAAAgEQEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\LogBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.PermissionBll" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAgAAgAAEAAEgACAAgBAAAIAA=</HashCode>
+      <FileName>Code\PermissionBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.PlantBll" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\PlantBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.PotBll" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\PotBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.ProductBll" BaseTypeListCollapsed="true">
+    <Position X="3" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\ProductBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.ReportBll">
+    <Position X="10.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACAAAIEACAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\ReportBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartAquaponic.Business.SpotLightBll" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\SpotLigthBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.TankBll" BaseTypeListCollapsed="true">
+    <Position X="15" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQIAAAAIAACAAAAgAACgAAGCKEAAAAAiAAAAAAA=</HashCode>
+      <FileName>Code\TankBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.UserBll" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAQgAQAAAAAIGCCAAAAAAAKoEAEAAMAACAEwAAAAAIA=</HashCode>
+      <FileName>Code\UserBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.UserPreferenceBll" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\UserPreferenceBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Business.WaterPumpBll" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAIAACAAAAAAAAgAAEAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>Code\WaterPumpBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

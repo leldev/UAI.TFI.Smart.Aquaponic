@@ -1,0 +1,1 @@
+for %%G in (*.sql) do sqlcmd /S %1 /d master -U %2 -P %3 -i"%%G"

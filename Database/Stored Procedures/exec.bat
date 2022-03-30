@@ -1,0 +1,1 @@
+for %%G in (*.sql) do sqlcmd /S LAPTOP-F605BNIJ /d SmartAquaponic -U sa -P P2ssw0rd -i"%%G"

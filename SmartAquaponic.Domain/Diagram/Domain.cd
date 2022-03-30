@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SmartAquaponic.Domain.Checksum" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIAAAAAAAAAQAAAAgAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Entities\Checksum.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Communication" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACBAAAAAAAAAAAQAAgAAAAAAAgBAIAAAAAA=</HashCode>
+      <FileName>Entities\Communication.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Decor" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAgAAAAAAAwIAAAAAAAA=</HashCode>
+      <FileName>Entities\Decor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Fish" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAAAAEAAQBAgAAAAAAAgBAgAAAEAA=</HashCode>
+      <FileName>Entities\Fish.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Group">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Lamp" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAABAAAAAQAAgAAAQABAgAAAAAAAAA=</HashCode>
+      <FileName>Entities\Lamp.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Log" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="10" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAIAAAAAAAAAAAAAAgAAAAAAAgAAIAAAIAA=</HashCode>
+      <FileName>Entities\Log.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Plant" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAAAAAAAAAAAAEAQAAgAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Entities\Plant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Pot" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAWAAAAAAAAAAAAAEAAAEZAAgAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Entities\Pot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Product" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABAAAAAAAAAAAQAAgCAAAAAAkAAAAAAAAA=</HashCode>
+      <FileName>Entities\Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Report" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAAAAAQAAgAAAAAAAwAAAAAAAAA=</HashCode>
+      <FileName>Entities\Report.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Resource" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="8" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAQAAAAAAAAAAgAAAAAAAgAgAAAAAAA=</HashCode>
+      <FileName>Entities\Resource.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Role">
+    <Position X="2" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAgAAAQAAgAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Entities\Role.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.SpotLight" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAAAAAAAAEERAAgAAAQAAAgAQAAAAAAA=</HashCode>
+      <FileName>Entities\SpotLigth.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.Tank" BaseTypeListCollapsed="true">
+    <Position X="4" Y="8" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAAAAAAIAAkRAAgAAAQAAAgBAAAAAAAA=</HashCode>
+      <FileName>Entities\Tank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.User" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAAQCIAAAAEAQAAAAYAAgAAAAQCAgAAAQAAAAg=</HashCode>
+      <FileName>Entities\User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.UserPreference" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAAIAIAAAAAAAAAAAQAAgAAIAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Entities\UserPreference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartAquaponic.Domain.WaterPump" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAABAAAQAAgAAAAABAgIAAAAAAAA=</HashCode>
+      <FileName>Entities\WaterPump.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Enum Name="SmartAquaponic.Domain.Enum.EventType">
+    <Position X="13.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAQAAAAAAABAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Enum\EventType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SmartAquaponic.Domain.Enum.PhType">
+    <Position X="15" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAAhAAAAAIBAAAEAAAAAACAAAYADAAAgA=</HashCode>
+      <FileName>Enum\PhType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SmartAquaponic.Domain.Enum.RockType">
+    <Position X="15" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAQgAAAgAA=</HashCode>
+      <FileName>Enum\RockType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SmartAquaponic.Domain.Enum.SocketType">
+    <Position X="11.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQBgAAAAAAAAA=</HashCode>
+      <FileName>Enum\SocketType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
